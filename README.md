@@ -3,7 +3,7 @@ Face Detection using OpenCV is a demo project that I created as I was learning O
 
 ### Input Image
 
-<img src="https://github.com/OmRajpurkar/Shape-Detection-using-OpenCV/blob/master/Resources/shapes.png" alt="alt text" width="400" height="400">
+<img src="https://github.com/OmRajpurkar/Face-Detection-using-OpenCV/blob/master/Resources/ProjectExhibition.JPG" alt="alt text" width="600" height="400">
 
 ### Output Image
 
